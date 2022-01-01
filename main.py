@@ -1,5 +1,5 @@
 
 
 def main():
-    print('Hello, i first project')
+    print('Hello, i second project')
 
